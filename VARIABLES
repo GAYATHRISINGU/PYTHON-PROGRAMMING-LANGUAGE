@@ -1,0 +1,7 @@
+name="python"
+age=3
+price=10.00
+print(name)
+print(age)
+print(price)
+
